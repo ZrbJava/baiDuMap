@@ -34,11 +34,11 @@
 
 - **创建第一个应用获取对应的ak**
 
-![创建应用](img\创建应用.png)
+![创建应用](img/new.png)
 
 - **创建成功**
 
-  ![ak](img\ak.png)
+  ![ak](img/ak.png)
 
 
 
@@ -79,7 +79,7 @@ map.centerAndZoom(point, 15);
 
 效果如下：
 
-![demo1](img\demo1.png)
+![demo1](./img/demo1.png)
 
 **代码介绍**
 
@@ -137,7 +137,7 @@ var map = new BMap.Map("container");
 
 **8.设置中心点坐标**
 
-![经纬度在线查询](img\经纬度在线查询.png)
+![经纬度在线查询](img/jd.png)
 
 ```js
 var point = new BMap.Point(110.47, 21.23); 
@@ -155,7 +155,7 @@ map.centerAndZoom(point, 15);
 
 关于地图显示级别
 
-![显示级别](img\显示级别.png)
+![显示级别](img/xsjb.png)
 
 ## **坐标转换**
 
