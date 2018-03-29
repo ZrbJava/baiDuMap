@@ -1,8 +1,9 @@
 
 
-[演示地址](http://jackie_bobo.coding.me/baiDuMap)
+ [演示地址](http://jackie_bobo.coding.me/baiDuMap)
 
-##账号和获取密钥
+## 账号和获取密钥
+
 
 ### 使用方法
 
@@ -20,7 +21,7 @@
 
 旧版本已下线，为保证您的使用没有问题，建议采用最新版本进行开发。
 
-###ak申请
+### ak申请
 
 > JavaScript API只支持浏览器类型的ak（自2016年1月15日升级）。请开发者在申请ak时注意选择。
 >
